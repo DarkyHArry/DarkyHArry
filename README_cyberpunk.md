@@ -63,8 +63,8 @@
 
 ---
 
-💀 *“"Você quer saber quem eu sou zero? eu sou a peste. Eu posso ajudar você e você eu.”* 💀  
+💀 *"Você quer saber quem eu sou zero? eu sou a peste. Eu posso ajudar você e você eu.”* 💀  
 
 ---
 
-🔮 **O que é o código automático ?** → Uma paródia ao classico => Em busca da casa automática <=.  
+🔮 **O que é o código automático ?** → Uma paródia ao classico **Em busca da casa automática**.  
