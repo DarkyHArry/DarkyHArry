@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Assembly-💀-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C-Language-blue?style=for-the-badge&logo=c&logoColor=white" />
 </p>
-
 ---
 
 ```
