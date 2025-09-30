@@ -31,7 +31,7 @@
 ## 📊 Linguagens Mais Usadas (atualizado em tempo real)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkyHArry&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerocool&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 ---
@@ -39,8 +39,8 @@
 ## ⚡ Stats do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkyHArry&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DarkyHArry&theme=neon-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zerocool&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zerocool&theme=neon-dark&hide_border=true" />
 </p>
 
 ---
