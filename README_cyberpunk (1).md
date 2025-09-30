@@ -1,4 +1,4 @@
-<h1 align="center">⚡👾 Bem-vindo ao meu Universo Cyberpunk 👾⚡</h1>
+<h1 align="center">⚡👾 Welcome to Automatic Codes 👾⚡</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hacker%20Mode-ON-green?style=for-the-badge&logo=linux&logoColor=black" />
@@ -10,9 +10,9 @@
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣶⣶⣶⣦⣤⣄⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⡿⠛⠉⠉⠀⠀⠉⠙⠻⢿⣦⡀⠀⠀⠀⠀  
-⠀⠀⠀⠀⠀⠀⢠⣿⠟⠁⠀⠀⚡ CYBERPUNK ⚡⠀⠀⠀⠈⠻⣿⡄⠀⠀⠀  
+⠀⠀⠀⠀⠀⠀⢠⣿⠟⠁⠀⠀⚡ Hackers 1995 ⚡⠀⠀⠀⠈⠻⣿⡄⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⠀⠀⠀  
-⠀⠀⠀⠀⠀⠀⣿⡇⠀👾 Repositório das Ideias 👾⠀⢸⣿⠀⠀⠀  
+⠀⠀⠀⠀⠀⠀⣿⡇⠀👾 O código Automático 👾⠀⢸⣿⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⢿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡿⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠻⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⠟⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⣄⠀⠀⠀⠀⠀⠀⣠⣴⠟⠁⠀⠀⠀⠀  
@@ -21,10 +21,10 @@
 ---
 
 ## 🚀 Sobre Mim
-- 💾 Explorando **Assembly e C**  
-- 🔬 Focado em **baixo nível, ponteiros, registradores**  
+- 💾 Criando códigos e projetos em **Assembly e C**  
+- 🔬 Focado em **baixo nível, linguagem C e projetos**  
 - 🛠️ Transformando ideias em projetos reais  
-- 🌌 Estilo: **Cyberpunk Hacker**  
+- 🌌 Estilo: **Hackers 1995**  
 
 ---
 
@@ -55,8 +55,8 @@
 
 ---
 
-💀 *“O futuro pertence aos que hackeiam o presente.”* 💀  
+💀 *“Você quer saber quem eu sou zero? eu sou a peste!. Eu posso ajudar você e você a mim.”* 💀  
 
 ---
 
-🔮 **Repo das Ideias** → um espaço para transformar rascunhos em revoluções digitais.  
+🔮 **Repo das Ideias** → um espaço para transformar rascunhos em revoluções digitais, inspirando-se em A Casa Automática.  
