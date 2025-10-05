@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/mkqFgGSh/R.png" 
-       alt="Forense Digital FBI Seal" 
-       width="250" 
+  <img src="https://i.postimg.cc/J4r1GFF3/png-transparent-police-interpol-international-crime-law-enforcement-agency-international-organizatio.png" 
+       alt="Forense Digital Interpol Seal" 
+       width="260" 
        style="border-radius:10px;"/>
 </p>
 
