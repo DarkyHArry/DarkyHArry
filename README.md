@@ -10,24 +10,6 @@
 
 ---
 
-
----
-
-```
-⠀⠀⠀⠀          /\
-              /  \      __
-             / /\ \    /  \ 
-            / /__\ \  /_/ /
-           /_/____\_\____/
-               Arch Linux
-  
-```
-
----
-
-
----
-
 ## 🚀 Sobre Mim
 - 💾 Criando códigos e projetos em **Assembly e C**  
 - 🔬 Focado em **baixo nível, linguagem C e Forense Digital**  
