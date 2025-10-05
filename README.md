@@ -6,13 +6,6 @@
   <img src="https://img.shields.io/badge/C-Language-blue?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://i.postimg.cc/504PwwWR/og-docs.webp" 
-       alt="Forense Digital Seal" 
-       width="300" 
-       style="border-radius:10px;"/>
-</p>
-
 ## 🚀 Sobre Mim
 - 💾 Criando códigos e projetos em **Assembly e C**  
 - 🔬 Focado em **baixo nível, linguagem C e Forense Digital**  
