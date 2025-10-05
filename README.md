@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DarkyHArry/meu-repo/main/assets/[![FBI.jpg](https://i.postimg.cc/wM9wQDKD/FBI.jpg)](https://postimg.cc/34bjK4xw)" 
+  <img src="https://i.postimg.cc/mkqFgGSh/R.png" 
        alt="Forense Digital FBI Seal" 
        width="250" 
        style="border-radius:10px;"/>
