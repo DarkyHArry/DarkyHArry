@@ -8,15 +8,12 @@
 
 <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Config-Files/1183a3d281f9acb82f8ea3a9ae06cb0d3fb585c8/arch%20linux.png">
 
----
-
 ## 🚀 Sobre Mim
 - 💾 Criando códigos e projetos em **Assembly e C**  
 - 🔬 Focado em **baixo nível, linguagem C e Forense Digital**  
 - 🛠️ Transformando ideias em projetos reais  
 - 🌌 Faculdade: **Tecnologia Superior Em Investigação Forense e Perícial Criminal**  
 
----
 
 ## 📊 Linguagens Mais Usadas (atualizado em tempo real)
 
