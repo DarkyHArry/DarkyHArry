@@ -6,8 +6,12 @@
   <img src="https://img.shields.io/badge/C-Language-blue?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Config-Files/1183a3d281f9acb82f8ea3a9ae06cb0d3fb585c8/https://wallpapers.com/images/hd/fbi-1459-x-1197-picture-9p1oams4cgdn112a.jpg">
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DarkyHArry/meu-repo/main/assets/[![FBI.jpg](https://i.postimg.cc/wM9wQDKD/FBI.jpg)](https://postimg.cc/34bjK4xw)" 
+       alt="Forense Digital FBI Seal" 
+       width="250" 
+       style="border-radius:10px;"/>
+</p>
 
 ## 🚀 Sobre Mim
 - 💾 Criando códigos e projetos em **Assembly e C**  
