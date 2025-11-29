@@ -30,7 +30,7 @@
 
 ---
 
-## 🎨 Badges Cyberpunk
+## Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/NeoTokyo-Terminal-green?style=for-the-badge&logo=matrix&logoColor=white" />
@@ -42,6 +42,4 @@
 
 💀 *“Você quer saber quem eu sou, zero? Eu sou a verdade oculta dos dados. Eu posso ajudar você e você a mim.”* 💀  
 
----
-
-🔮 **Repo das Ideias** → um espaço para transformar rascunhos em revoluções digitais, inspirando-se em A Casa Automática.  
+---  
